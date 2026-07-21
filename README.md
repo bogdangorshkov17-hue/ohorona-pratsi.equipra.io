@@ -1,1 +1,1 @@
-# ohorona-pratsi.equipra.io
+# index.html
